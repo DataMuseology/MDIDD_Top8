@@ -1,0 +1,36 @@
+Source,Target,Type,Weight,,,std_artist,std_artist_id
+johann sebastian bach,wolfgang amadeus mozart,Undirected,83,,,wolfgang amadeus mozart,A5418
+ludwig van beethoven,wolfgang amadeus mozart,Undirected,71,,,ludwig van beethoven,A3004
+franz schubert,wolfgang amadeus mozart,Undirected,51,,,johann sebastian bach,A2427
+johann sebastian bach,ludwig van beethoven,Undirected,48,,,franz schubert,A1618
+franz schubert,johann sebastian bach,Undirected,41,,,giuseppe verdi,A1815
+giuseppe verdi,wolfgang amadeus mozart,Undirected,35,,,edward elgar,A1326
+franz schubert,ludwig van beethoven,Undirected,32,,,pyotr ilyich tchaikovsky,A3932
+wolfgang amadeus mozart,wolfgang amadeus mozart,Undirected,31,,,giacomo puccini,A1790
+giuseppe verdi,ludwig van beethoven,Undirected,27,,,,
+johann sebastian bach,johann sebastian bach,Undirected,21,,,,
+edward elgar,ludwig van beethoven,Undirected,18,,,,
+edward elgar,wolfgang amadeus mozart,Undirected,17,,,,
+franz schubert,giuseppe verdi,Undirected,16,,,,
+pyotr ilyich tchaikovsky,wolfgang amadeus mozart,Undirected,15,,,,
+giacomo puccini,ludwig van beethoven,Undirected,14,,,,
+giacomo puccini,wolfgang amadeus mozart,Undirected,14,,,,
+edward elgar,giacomo puccini,Undirected,13,,,,
+giacomo puccini,johann sebastian bach,Undirected,12,,,,
+ludwig van beethoven,pyotr ilyich tchaikovsky,Undirected,11,,,,
+edward elgar,johann sebastian bach,Undirected,10,,,,
+giuseppe verdi,johann sebastian bach,Undirected,9,,,,
+giuseppe verdi,pyotr ilyich tchaikovsky,Undirected,9,,,,
+ludwig van beethoven,ludwig van beethoven,Undirected,9,,,,
+edward elgar,franz schubert,Undirected,8,,,,
+johann sebastian bach,pyotr ilyich tchaikovsky,Undirected,7,,,,
+edward elgar,pyotr ilyich tchaikovsky,Undirected,6,,,,
+edward elgar,giuseppe verdi,Undirected,6,,,,
+giacomo puccini,giuseppe verdi,Undirected,5,,,,
+giuseppe verdi,giuseppe verdi,Undirected,5,,,,
+franz schubert,franz schubert,Undirected,5,,,,
+franz schubert,pyotr ilyich tchaikovsky,Undirected,5,,,,
+giacomo puccini,pyotr ilyich tchaikovsky,Undirected,4,,,,
+giacomo puccini,giacomo puccini,Undirected,4,,,,
+pyotr ilyich tchaikovsky,pyotr ilyich tchaikovsky,Undirected,3,,,,
+franz schubert,giacomo puccini,Undirected,2,,,,
